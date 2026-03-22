@@ -15,7 +15,7 @@ PyLadies Shizuokaは、女性およびマイノリティの方々が、安心し
 本コミュニティでは、すべての参加者が尊重され、心理的に安全な環境で過ごすことが可能であり、  
 「できる人が教える場」ではなく、「一緒に学ぶ場」であることを大切にしています。
 
-※本コミュニティは、PyLadiesの公式Code of Conductに準拠しています。
+※本コミュニティは、[PyLadiesの公式Code of Conduct](https://policies.python.org/python.org/code-of-conduct/)に準拠しています。
 
 ---
 
