@@ -9,13 +9,13 @@ PyLadies Shizuokaは、すべての参加者が安心して参加できるコミ
 
 - [PyLadies Code of Conduct](https://pyladies.com/CodeOfConduct/)
 
----
+
 
 # PyLadies Shizuoka ガイドライン
 
 ## 富士山のふもとで、Pythonとつながるコミュニティ
 
----
+
 
 ## はじめに
 
